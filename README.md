@@ -17,4 +17,6 @@ enable ssh and picamera , ctrl+alt+t opens the terminal , run command sudo raspi
 
 , check if the camera is working , run the command    raspistill -o test.jpg , this should take a picture , if not you have to reconfigure 
 
-then clone this repository using the command       git clone  
+then clone this repository using the command       git clone  https://github.com/jagannath-p-s/pifinal.git 
+
+navigate inside the folder , run pip install flask , pip install hx711 , 
